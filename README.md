@@ -1,6 +1,6 @@
 # Hi there, I'm Julia! 👋
 
-I'm a passionate computer programming student. Currently, I'm learning and expanding my knowledge in the world of tech. 🚀
+I'm a passionate computer programming student 🚀
 
 ### 🌍 Languages:
 - **Portuguese** (Native)
