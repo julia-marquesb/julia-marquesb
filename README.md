@@ -14,4 +14,3 @@ I'm a passionate computer programming student 🚀
 ### 💬 Let's Connect:
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/juliamarques2/) for collaborations, questions, or just to chat!
 
-Thanks for visiting my profile! 😊
