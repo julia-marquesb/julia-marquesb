@@ -12,5 +12,5 @@ I'm a passionate computer programming student 🚀
 - Learning new technologies and frameworks.
 
 ### 💬 Let's Connect:
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/juliamarques2/) for job opportunities in frond end development, collaborations, questions, or just to chat!
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/juliamarques2/) for job opportunities in front-end development, collaborations, questions, or just to chat!
 
