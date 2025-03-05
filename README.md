@@ -3,9 +3,9 @@
 I'm a passionate computer programming student 🚀
 
 ### 🌍 Languages:
-- 🇧🇷**Portuguese** (Native)
-- 🇬🇧**English** (Fluent)
-- 🇮🇹**Italian** (Learning)
+- **Portuguese** (Native)
+- **English** (Fluent)
+- **Italian** (Learning)
 
 ### 📚 What I'm Working On:
 - Developing my skills in various programming languages.
